@@ -2,16 +2,12 @@ owner: piaverous
 repo: upptime
 user-agent: piaverous
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Internet Archive
-    url: https://archive.org
+  - name: LotusGears
+    url: https://www.lotusgears.me/
+  - name: Dixneuf19 Upptime
+    url: https://upptime.dixneuf19.me
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://lotusgears.me
 notifications:
   - type: slack
     channel: C016QTU9S9Y
