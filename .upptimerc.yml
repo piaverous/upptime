@@ -4,6 +4,8 @@ user-agent: piaverous
 sites:
   - name: LotusGears
     url: https://www.lotusgears.me/
+  - name: Pivrous
+    url: https://pivrous.wtf/
   - name: Dixneuf19 Upptime
     url: https://upptime.dixneuf19.me
   - name: Hacker News
