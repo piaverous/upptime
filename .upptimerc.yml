@@ -1,6 +1,6 @@
-owner: koj-co
+owner: piaverous
 repo: upptime
-user-agent: KojBot
+user-agent: piaverous
 sites:
   - name: Google
     url: https://www.google.com
@@ -11,14 +11,12 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+    url: https://lotusgears.me
 notifications:
   - type: slack
     channel: C016QTU9S9Y
 assignees:
-  - AnandChowdhary
+  - piaverous
 status-website:
   cname: upptime.js.org
   logoUrl: https://raw.githubusercontent.com/koj-co/upptime/79d9d1c22ecf706acc51f17798d7c7dbc710ab40/assets/icon.svg
