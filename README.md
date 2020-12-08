@@ -8,7 +8,7 @@ Upptime (https://upptime.js.org) is the open-source uptime monitor and status pa
 [![Summary CI](https://github.com/koj-co/upptime/workflows/Summary%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Summary+CI%22)
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 
-Live status: <!--live status--> **🟨 Partial outage**
+Live status: <!--live status--> **🟩 All systems operational**
 
 ## ⭐ How it works
 
@@ -38,7 +38,7 @@ _This section is updated automatically when the status of any site changes._
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [LotusGears](https://www.lotusgears.me/) | 🟥 Down | [lotus-gears.yml](https://github.com/piaverous/upptime/commits/master/history/lotus-gears.yml) | <img alt="Response time graph" src="./graphs/lotus-gears.png" height="20"> 441ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpiaverous%2Fupptime%2Fmaster%2Fapi%2Flotus-gears%2Fuptime.json)
+| [LotusGears](https://www.lotusgears.me/) | 🟩 Up | [lotus-gears.yml](https://github.com/piaverous/upptime/commits/master/history/lotus-gears.yml) | <img alt="Response time graph" src="./graphs/lotus-gears.png" height="20"> 438ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpiaverous%2Fupptime%2Fmaster%2Fapi%2Flotus-gears%2Fuptime.json)
 | [Pivrous](https://pivrous.wtf/) | 🟩 Up | [pivrous.yml](https://github.com/piaverous/upptime/commits/master/history/pivrous.yml) | <img alt="Response time graph" src="./graphs/pivrous.png" height="20"> 1039ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpiaverous%2Fupptime%2Fmaster%2Fapi%2Fpivrous%2Fuptime.json)
 | [Dixneuf19 Upptime](https://upptime.dixneuf19.me) | 🟩 Up | [dixneuf19-upptime.yml](https://github.com/piaverous/upptime/commits/master/history/dixneuf19-upptime.yml) | <img alt="Response time graph" src="./graphs/dixneuf19-upptime.png" height="20"> 236ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpiaverous%2Fupptime%2Fmaster%2Fapi%2Fdixneuf19-upptime%2Fuptime.json)
 | [Hacker News](https://news.ycombinator.com) | 🟩 Up | [hacker-news.yml](https://github.com/piaverous/upptime/commits/master/history/hacker-news.yml) | <img alt="Response time graph" src="./graphs/hacker-news.png" height="20"> 363ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpiaverous%2Fupptime%2Fmaster%2Fapi%2Fhacker-news%2Fuptime.json)
