@@ -4,8 +4,8 @@
     "url": "https://www.lotusgears.me/",
     "slug": "lotus-gears",
     "status": "down",
-    "uptime": "75.56",
-    "time": 229
+    "uptime": "75.12",
+    "time": 225
   },
   {
     "name": "Pivrous",
@@ -29,6 +29,6 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 356
+    "time": 354
   }
 ]
