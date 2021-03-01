@@ -4,16 +4,16 @@
     "url": "https://www.lotusgears.me/",
     "slug": "lotus-gears",
     "status": "down",
-    "uptime": "71.79",
-    "time": 195
+    "uptime": "71.74",
+    "time": 192
   },
   {
     "name": "Pivrous",
     "url": "https://pivrous.wtf/",
     "slug": "pivrous",
     "status": "down",
-    "uptime": "100.00",
-    "time": 914
+    "uptime": "99.94",
+    "time": 1014
   },
   {
     "name": "Dixneuf19 Upptime",
@@ -21,7 +21,7 @@
     "slug": "dixneuf19-upptime",
     "status": "up",
     "uptime": "100.00",
-    "time": 190
+    "time": 193
   },
   {
     "name": "Hacker News",
@@ -29,6 +29,6 @@
     "slug": "hacker-news",
     "status": "up",
     "uptime": "100.00",
-    "time": 355
+    "time": 354
   }
 ]
